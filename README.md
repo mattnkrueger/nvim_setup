@@ -1,1 +1,3 @@
 # this is my personal nvim setup as of now - using this repo to transfer from device to device...
+
+# taken from josean yt walkthrough video
